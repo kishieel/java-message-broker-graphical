@@ -1,4 +1,4 @@
-# JMB Server
+# JMB Graphical
 
 TBD
 
